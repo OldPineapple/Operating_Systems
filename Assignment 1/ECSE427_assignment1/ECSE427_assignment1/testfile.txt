@@ -1,0 +1,9 @@
+      help
+set a rip
+print a
+set a rip kobe
+print a
+command
+set ba 8
+print ba
+quit
