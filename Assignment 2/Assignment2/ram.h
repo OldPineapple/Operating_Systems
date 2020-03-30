@@ -10,7 +10,7 @@
 #define ram_h
 
 #include <stdio.h>
-extern char *ram[1000];
+char *ram[1000];
 void addToRAM (FILE *p, int *start, int *end);
 void clearPart(int start, int end);
 int nxtavai();
